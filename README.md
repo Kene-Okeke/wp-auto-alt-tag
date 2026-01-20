@@ -17,4 +17,4 @@ This WordPress plugin automatically adds ALT attributes to images using the atta
 ---
 
 💻 Built by McDavid  
-🌐 www.mctech.agency
+
